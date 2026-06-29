@@ -5,7 +5,7 @@
 # ─────────────────────────────────────────────────────────────────
 
 $ScriptDir   = $PSScriptRoot
-$HtmlTool    = Join-Path $ScriptDir "po_compare_tool.html"
+$HtmlTool    = Join-Path $ScriptDir "index.html"
 $TokenCache  = Join-Path $ScriptDir ".sp_token_cache.json"
 
 $TenantId    = "retiina.com"

@@ -24,7 +24,7 @@ Everything runs entirely in your browser. No data is uploaded to any server.
 
 | File | Description |
 |------|-------------|
-| `po_compare_tool.html` | Main comparison tool — open this in your browser |
+| `index.html` | Main comparison tool — open this in your browser |
 | `Download_PO_Files.bat` | Double-click to download the latest PO reports from SharePoint |
 | `Download_PO_Files.ps1` | PowerShell script called by the .bat file |
 | `PO_ProjectHistoryReport *.xlsx` | PO report exports (downloaded from SharePoint) |
@@ -37,7 +37,7 @@ Everything runs entirely in your browser. No data is uploaded to any server.
 
 If the SharePoint folder is synced to your computer via OneDrive:
 
-1. Open `po_compare_tool.html` in your browser
+1. Open `index.html` in your browser
 2. Click **Choose folder…**
 3. Navigate to your synced OneDrive folder:
    ```
@@ -59,7 +59,7 @@ If you don't have OneDrive sync set up:
 
 ### Option 3 — Manual Upload
 
-1. Open `po_compare_tool.html` in your browser
+1. Open `index.html` in your browser
 2. Click **Click to choose file** under **Older File** and select the earlier report
 3. Click **Click to choose file** under **Newer File** and select the later report
 4. Click **Compare Files**
