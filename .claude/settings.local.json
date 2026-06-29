@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python \"C:\\\\Users\\\\JULIO_~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-JULIO-MENDOZA-Desktop-Purchasing-Mark-PO-report-analysis-comparing-two-different-dates\\\\71dc3a82-4fc6-481b-8577-d647eacf5793\\\\scratchpad\\\\build_tool.py\")",
+      "PowerShell(Start-Process 'c:\\\\Users\\\\JULIO_MENDOZA\\\\Desktop\\\\Purchasing\\\\Mark\\\\PO report analysis comparing two different dates\\\\po_compare_tool.html')"
+    ]
+  }
+}

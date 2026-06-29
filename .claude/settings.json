@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude_ai_Microsoft_365__sharepoint_search",
+      "mcp__claude_ai_Microsoft_365__sharepoint_folder_search",
+      "mcp__claude_ai_Microsoft_365__read_resource",
+      "Read(//c/Users/JULIO_MENDOZA/Desktop/**)",
+      "Read(//c/Users/JULIO_MENDOZA/Desktop/Purchasing/Mark/Sales order Kit tracking Tool/app/**)",
+      "Read(//c/Users/JULIO_MENDOZA/Desktop/Purchasing/Mark/Sales order Kit tracking Tool/**)",
+      "PowerShell(Start-Process \"c:\\\\Users\\\\JULIO_MENDOZA\\\\Desktop\\\\Purchasing\\\\Mark\\\\Sales order Kit tracking Tool\\\\start.bat\")",
+      "PowerShell(Start-Process \"http://127.0.0.1:8001\")",
+      "PowerShell(netstat -ano)",
+      "PowerShell(Stop-Process -Id 32128 -Force)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\JULIO_MENDOZA\\Desktop\\Purchasing\\Mark\\Sales order Kit tracking Tool\\app"
+    ]
+  }
+}
